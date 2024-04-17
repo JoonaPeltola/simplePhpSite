@@ -2,7 +2,7 @@
 $title = "Exercise 1: Getting Started with PHP - Deepak";
 include_once 'header.php'; ?>
 
-<h1>Exercise 1: Getting Started with PHP - testing for lab4 task 1</h1> 
+<h1>Exercise 1: Getting Started with PHP - testing for lab4 task 1 editing more fjdsaöfdsjlaf</h1> 
 
 <h3>3.1 Write PHP code to output the following message:</h3>
 <?php 
